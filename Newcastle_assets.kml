@@ -1,1504 +1,1504 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
-    <Document id="70007">
-        <Style id="70010">
-            <IconStyle id="70011">
+    <Document id="1641">
+        <Style id="1644">
+            <IconStyle id="1645">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70012">
+                <Icon id="1646">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70013">
+            <LabelStyle id="1647">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70016">
-            <IconStyle id="70017">
+        <Style id="1650">
+            <IconStyle id="1651">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70018">
+                <Icon id="1652">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70019">
+            <LabelStyle id="1653">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70022">
-            <IconStyle id="70023">
+        <Style id="1656">
+            <IconStyle id="1657">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70024">
+                <Icon id="1658">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70025">
+            <LabelStyle id="1659">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70028">
-            <IconStyle id="70029">
+        <Style id="1662">
+            <IconStyle id="1663">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70030">
+                <Icon id="1664">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70031">
+            <LabelStyle id="1665">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70034">
-            <IconStyle id="70035">
+        <Style id="1668">
+            <IconStyle id="1669">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70036">
+                <Icon id="1670">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70037">
+            <LabelStyle id="1671">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70040">
-            <IconStyle id="70041">
+        <Style id="1674">
+            <IconStyle id="1675">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70042">
+                <Icon id="1676">
                     <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70043">
+            <LabelStyle id="1677">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70046">
-            <IconStyle id="70047">
+        <Style id="1680">
+            <IconStyle id="1681">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70048">
+                <Icon id="1682">
                     <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70049">
+            <LabelStyle id="1683">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70052">
-            <IconStyle id="70054">
+        <Style id="1686">
+            <IconStyle id="1688">
                 <color>ff0000ff</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70055">
+                <Icon id="1689">
                     <href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70053">
+            <LabelStyle id="1687">
                 <color>ffffffff</color>
                 <colorMode>normal</colorMode>
-                <scale>1.5</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70058">
-            <IconStyle id="70060">
+        <Style id="1692">
+            <IconStyle id="1694">
                 <color>ff0000ff</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70061">
+                <Icon id="1695">
                     <href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70059">
+            <LabelStyle id="1693">
                 <color>ffffffff</color>
                 <colorMode>normal</colorMode>
-                <scale>1.5</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70064">
-            <IconStyle id="70066">
+        <Style id="1698">
+            <IconStyle id="1700">
                 <color>ff0000ff</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70067">
+                <Icon id="1701">
                     <href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70065">
+            <LabelStyle id="1699">
                 <color>ffffffff</color>
                 <colorMode>normal</colorMode>
-                <scale>1.5</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70070">
-            <IconStyle id="70072">
+        <Style id="1704">
+            <IconStyle id="1706">
                 <color>ff0000ff</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70073">
+                <Icon id="1707">
                     <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70071">
+            <LabelStyle id="1705">
                 <color>ffffffff</color>
                 <colorMode>normal</colorMode>
-                <scale>1.5</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70076">
-            <IconStyle id="70078">
+        <Style id="1710">
+            <IconStyle id="1712">
                 <color>ff0000ff</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70079">
+                <Icon id="1713">
                     <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70077">
+            <LabelStyle id="1711">
                 <color>ffffffff</color>
                 <colorMode>normal</colorMode>
-                <scale>1.5</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70082">
-            <IconStyle id="70083">
+        <Style id="1716">
+            <IconStyle id="1717">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70084">
+                <Icon id="1718">
                     <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70085">
+            <LabelStyle id="1719">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70088">
-            <IconStyle id="70089">
+        <Style id="1722">
+            <IconStyle id="1723">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70090">
+                <Icon id="1724">
                     <href>http://maps.google.com/mapfiles/kml/shapes/target.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70091">
+            <LabelStyle id="1725">
+                <colorMode>normal</colorMode>
+                <scale>0</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1728">
+            <IconStyle id="1730">
+                <color>ff008000</color>
                 <colorMode>normal</colorMode>
                 <scale>1</scale>
-            </LabelStyle>
-        </Style>
-        <Style id="70094">
-            <IconStyle id="70096">
-                <color>ff008000</color>
-                <colorMode>normal</colorMode>
-                <scale>0.5</scale>
                 <heading>0</heading>
-                <Icon id="70097">
+                <Icon id="1731">
                     <href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70095">
+            <LabelStyle id="1729">
                 <colorMode>normal</colorMode>
-                <scale>2</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70100">
-            <IconStyle id="70102">
+        <Style id="1734">
+            <IconStyle id="1736">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70103">
+                <Icon id="1737">
                     <href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70101">
+            <LabelStyle id="1735">
                 <colorMode>normal</colorMode>
-                <scale>2</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70106">
-            <IconStyle id="70108">
+        <Style id="1740">
+            <IconStyle id="1742">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70109">
+                <Icon id="1743">
                     <href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70107">
+            <LabelStyle id="1741">
                 <colorMode>normal</colorMode>
-                <scale>2</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70112">
-            <IconStyle id="70114">
+        <Style id="1746">
+            <IconStyle id="1748">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70115">
+                <Icon id="1749">
                     <href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70113">
+            <LabelStyle id="1747">
                 <colorMode>normal</colorMode>
-                <scale>2</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70118">
-            <IconStyle id="70120">
+        <Style id="1752">
+            <IconStyle id="1754">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70121">
+                <Icon id="1755">
                     <href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70119">
+            <LabelStyle id="1753">
                 <colorMode>normal</colorMode>
-                <scale>2</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70124">
-            <IconStyle id="70126">
+        <Style id="1758">
+            <IconStyle id="1760">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70127">
+                <Icon id="1761">
                     <href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70125">
+            <LabelStyle id="1759">
                 <colorMode>normal</colorMode>
-                <scale>2</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70130">
-            <IconStyle id="70132">
+        <Style id="1764">
+            <IconStyle id="1766">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70133">
+                <Icon id="1767">
                     <href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70131">
+            <LabelStyle id="1765">
                 <colorMode>normal</colorMode>
-                <scale>2</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70136">
-            <IconStyle id="70138">
+        <Style id="1770">
+            <IconStyle id="1772">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70139">
+                <Icon id="1773">
                     <href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70137">
+            <LabelStyle id="1771">
                 <colorMode>normal</colorMode>
-                <scale>2</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70142">
-            <IconStyle id="70144">
+        <Style id="1776">
+            <IconStyle id="1778">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70145">
+                <Icon id="1779">
                     <href>http://maps.google.com/mapfiles/kml/shapes/placemark_square.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70143">
+            <LabelStyle id="1777">
                 <colorMode>normal</colorMode>
-                <scale>2</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70148">
-            <IconStyle id="70150">
+        <Style id="1782">
+            <IconStyle id="1784">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70151">
+                <Icon id="1785">
                     <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70149">
+            <LabelStyle id="1783">
                 <colorMode>normal</colorMode>
-                <scale>2</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70154">
-            <IconStyle id="70156">
+        <Style id="1788">
+            <IconStyle id="1790">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70157">
+                <Icon id="1791">
                     <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70155">
+            <LabelStyle id="1789">
                 <colorMode>normal</colorMode>
-                <scale>2</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70160">
-            <IconStyle id="70162">
+        <Style id="1794">
+            <IconStyle id="1796">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70163">
+                <Icon id="1797">
                     <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70161">
+            <LabelStyle id="1795">
                 <colorMode>normal</colorMode>
-                <scale>2</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70166">
-            <IconStyle id="70167">
+        <Style id="1800">
+            <IconStyle id="1801">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70168">
+                <Icon id="1802">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70169">
+            <LabelStyle id="1803">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70172">
-            <IconStyle id="70173">
+        <Style id="1806">
+            <IconStyle id="1807">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70174">
+                <Icon id="1808">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70175">
+            <LabelStyle id="1809">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70178">
-            <IconStyle id="70179">
+        <Style id="1812">
+            <IconStyle id="1813">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70180">
+                <Icon id="1814">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70181">
+            <LabelStyle id="1815">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70184">
-            <IconStyle id="70185">
+        <Style id="1818">
+            <IconStyle id="1819">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70186">
+                <Icon id="1820">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70187">
+            <LabelStyle id="1821">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70190">
-            <IconStyle id="70191">
+        <Style id="1824">
+            <IconStyle id="1825">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70192">
+                <Icon id="1826">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70193">
+            <LabelStyle id="1827">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70196">
-            <IconStyle id="70197">
+        <Style id="1830">
+            <IconStyle id="1831">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70198">
+                <Icon id="1832">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70199">
+            <LabelStyle id="1833">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70202">
-            <IconStyle id="70203">
+        <Style id="1836">
+            <IconStyle id="1837">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70204">
+                <Icon id="1838">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70205">
+            <LabelStyle id="1839">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70208">
-            <IconStyle id="70209">
+        <Style id="1842">
+            <IconStyle id="1843">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70210">
+                <Icon id="1844">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70211">
+            <LabelStyle id="1845">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70214">
-            <IconStyle id="70215">
+        <Style id="1848">
+            <IconStyle id="1849">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70216">
+                <Icon id="1850">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70217">
+            <LabelStyle id="1851">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70220">
-            <IconStyle id="70221">
+        <Style id="1854">
+            <IconStyle id="1855">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70222">
+                <Icon id="1856">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70223">
+            <LabelStyle id="1857">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70226">
-            <IconStyle id="70227">
+        <Style id="1860">
+            <IconStyle id="1861">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70228">
+                <Icon id="1862">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70229">
+            <LabelStyle id="1863">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70232">
-            <IconStyle id="70233">
+        <Style id="1866">
+            <IconStyle id="1867">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70234">
+                <Icon id="1868">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70235">
+            <LabelStyle id="1869">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70238">
-            <IconStyle id="70239">
+        <Style id="1872">
+            <IconStyle id="1873">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70240">
+                <Icon id="1874">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70241">
+            <LabelStyle id="1875">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70244">
-            <IconStyle id="70245">
+        <Style id="1878">
+            <IconStyle id="1879">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70246">
+                <Icon id="1880">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70247">
+            <LabelStyle id="1881">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70250">
-            <IconStyle id="70251">
+        <Style id="1884">
+            <IconStyle id="1885">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70252">
+                <Icon id="1886">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70253">
+            <LabelStyle id="1887">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70256">
-            <IconStyle id="70257">
+        <Style id="1890">
+            <IconStyle id="1891">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70258">
+                <Icon id="1892">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70259">
+            <LabelStyle id="1893">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70262">
-            <IconStyle id="70263">
+        <Style id="1896">
+            <IconStyle id="1897">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70264">
+                <Icon id="1898">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70265">
+            <LabelStyle id="1899">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70268">
-            <IconStyle id="70269">
+        <Style id="1902">
+            <IconStyle id="1903">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70270">
+                <Icon id="1904">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70271">
+            <LabelStyle id="1905">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70274">
-            <IconStyle id="70275">
+        <Style id="1908">
+            <IconStyle id="1909">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70276">
+                <Icon id="1910">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70277">
+            <LabelStyle id="1911">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70280">
-            <IconStyle id="70281">
+        <Style id="1914">
+            <IconStyle id="1915">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70282">
+                <Icon id="1916">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70283">
+            <LabelStyle id="1917">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70286">
-            <IconStyle id="70287">
+        <Style id="1920">
+            <IconStyle id="1921">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70288">
+                <Icon id="1922">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70289">
+            <LabelStyle id="1923">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70292">
-            <IconStyle id="70293">
+        <Style id="1926">
+            <IconStyle id="1927">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70294">
+                <Icon id="1928">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70295">
+            <LabelStyle id="1929">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70298">
-            <IconStyle id="70299">
+        <Style id="1932">
+            <IconStyle id="1933">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70300">
+                <Icon id="1934">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70301">
+            <LabelStyle id="1935">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70304">
-            <IconStyle id="70305">
+        <Style id="1938">
+            <IconStyle id="1939">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70306">
+                <Icon id="1940">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70307">
+            <LabelStyle id="1941">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70310">
-            <IconStyle id="70311">
+        <Style id="1944">
+            <IconStyle id="1945">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70312">
+                <Icon id="1946">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70313">
+            <LabelStyle id="1947">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70316">
-            <IconStyle id="70317">
+        <Style id="1950">
+            <IconStyle id="1951">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70318">
+                <Icon id="1952">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70319">
+            <LabelStyle id="1953">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70322">
-            <IconStyle id="70323">
+        <Style id="1956">
+            <IconStyle id="1957">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70324">
+                <Icon id="1958">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70325">
+            <LabelStyle id="1959">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70328">
-            <IconStyle id="70329">
+        <Style id="1962">
+            <IconStyle id="1963">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70330">
+                <Icon id="1964">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70331">
+            <LabelStyle id="1965">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70334">
-            <IconStyle id="70335">
+        <Style id="1968">
+            <IconStyle id="1969">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70336">
+                <Icon id="1970">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70337">
+            <LabelStyle id="1971">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70340">
-            <IconStyle id="70341">
+        <Style id="1974">
+            <IconStyle id="1975">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70342">
+                <Icon id="1976">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70343">
+            <LabelStyle id="1977">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70346">
-            <IconStyle id="70347">
+        <Style id="1980">
+            <IconStyle id="1981">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70348">
+                <Icon id="1982">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70349">
+            <LabelStyle id="1983">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70352">
-            <IconStyle id="70353">
+        <Style id="1986">
+            <IconStyle id="1987">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70354">
+                <Icon id="1988">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70355">
+            <LabelStyle id="1989">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70358">
-            <IconStyle id="70359">
+        <Style id="1992">
+            <IconStyle id="1993">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70360">
+                <Icon id="1994">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70361">
+            <LabelStyle id="1995">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70364">
-            <IconStyle id="70365">
+        <Style id="1998">
+            <IconStyle id="1999">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70366">
+                <Icon id="2000">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70367">
+            <LabelStyle id="2001">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70370">
-            <IconStyle id="70371">
+        <Style id="2004">
+            <IconStyle id="2005">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70372">
+                <Icon id="2006">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70373">
+            <LabelStyle id="2007">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70376">
-            <IconStyle id="70377">
+        <Style id="2010">
+            <IconStyle id="2011">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70378">
+                <Icon id="2012">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70379">
+            <LabelStyle id="2013">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70382">
-            <IconStyle id="70383">
+        <Style id="2016">
+            <IconStyle id="2017">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70384">
+                <Icon id="2018">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70385">
+            <LabelStyle id="2019">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70388">
-            <IconStyle id="70389">
+        <Style id="2022">
+            <IconStyle id="2023">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70390">
+                <Icon id="2024">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70391">
+            <LabelStyle id="2025">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70394">
-            <IconStyle id="70395">
+        <Style id="2028">
+            <IconStyle id="2029">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70396">
+                <Icon id="2030">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70397">
+            <LabelStyle id="2031">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70400">
-            <IconStyle id="70401">
+        <Style id="2034">
+            <IconStyle id="2035">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70402">
+                <Icon id="2036">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70403">
+            <LabelStyle id="2037">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70406">
-            <IconStyle id="70407">
+        <Style id="2040">
+            <IconStyle id="2041">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70408">
+                <Icon id="2042">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70409">
+            <LabelStyle id="2043">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Style id="70412">
-            <IconStyle id="70413">
+        <Style id="2046">
+            <IconStyle id="2047">
                 <color>ff008000</color>
                 <colorMode>normal</colorMode>
-                <scale>0.5</scale>
+                <scale>1</scale>
                 <heading>0</heading>
-                <Icon id="70414">
+                <Icon id="2048">
                     <href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
                 </Icon>
             </IconStyle>
-            <LabelStyle id="70415">
+            <LabelStyle id="2049">
                 <colorMode>normal</colorMode>
-                <scale>1</scale>
+                <scale>0</scale>
             </LabelStyle>
         </Style>
-        <Placemark id="70009">
-            <name/>
-            <styleUrl>#70010</styleUrl>
-            <Point id="70008">
+        <Placemark id="1643">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1644</styleUrl>
+            <Point id="1642">
                 <coordinates>152.5458,-32.4527,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70015">
-            <name/>
-            <styleUrl>#70016</styleUrl>
-            <Point id="70014">
+        <Placemark id="1649">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1650</styleUrl>
+            <Point id="1648">
                 <coordinates>152.549,-32.4575,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70021">
-            <name/>
-            <styleUrl>#70022</styleUrl>
-            <Point id="70020">
+        <Placemark id="1655">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1656</styleUrl>
+            <Point id="1654">
                 <coordinates>152.5577,-32.4684,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70027">
-            <name/>
-            <styleUrl>#70028</styleUrl>
-            <Point id="70026">
+        <Placemark id="1661">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1662</styleUrl>
+            <Point id="1660">
                 <coordinates>152.5632,-32.4743,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70033">
-            <name/>
-            <styleUrl>#70034</styleUrl>
-            <Point id="70032">
+        <Placemark id="1667">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1668</styleUrl>
+            <Point id="1666">
                 <coordinates>152.5686,-32.4801,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70039">
-            <name/>
-            <styleUrl>#70040</styleUrl>
-            <Point id="70038">
+        <Placemark id="1673">
+            <name>Existing HF radar sites</name>
+            <styleUrl>#1674</styleUrl>
+            <Point id="1672">
                 <coordinates>152.539022,-32.441575,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70045">
-            <name/>
-            <styleUrl>#70046</styleUrl>
-            <Point id="70044">
+        <Placemark id="1679">
+            <name>Existing HF radar sites</name>
+            <styleUrl>#1680</styleUrl>
+            <Point id="1678">
                 <coordinates>151.727059,-33.010245,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70051">
-            <name>STB050</name>
-            <styleUrl>#70052</styleUrl>
-            <Point id="70050">
+        <Placemark id="1685">
+            <name>Proposed moorings</name>
+            <styleUrl>#1686</styleUrl>
+            <Point id="1684">
                 <coordinates>152.225,-32.75,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70057">
-            <name>STB100</name>
-            <styleUrl>#70058</styleUrl>
-            <Point id="70056">
+        <Placemark id="1691">
+            <name>Proposed moorings</name>
+            <styleUrl>#1692</styleUrl>
+            <Point id="1690">
                 <coordinates>152.2817,-32.795,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70063">
-            <name>STB150</name>
-            <styleUrl>#70064</styleUrl>
-            <Point id="70062">
+        <Placemark id="1697">
+            <name>Proposed moorings</name>
+            <styleUrl>#1698</styleUrl>
+            <Point id="1696">
                 <coordinates>152.3417,-32.8333,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70069">
-            <name>HF Radar North Head</name>
-            <styleUrl>#70070</styleUrl>
-            <Point id="70068">
+        <Placemark id="1703">
+            <name>Proposed HF radar sites</name>
+            <styleUrl>#1704</styleUrl>
+            <Point id="1702">
                 <coordinates>151.3,-33.81,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70075">
-            <name>HF Radar Jervis Bay</name>
-            <styleUrl>#70076</styleUrl>
-            <Point id="70074">
+        <Placemark id="1709">
+            <name>Proposed HF radar sites</name>
+            <styleUrl>#1710</styleUrl>
+            <Point id="1708">
                 <coordinates>150.81,-35.09,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70081">
-            <name/>
-            <styleUrl>#70082</styleUrl>
-            <Point id="70080">
+        <Placemark id="1715">
+            <name>Existing HF radar sites</name>
+            <styleUrl>#1716</styleUrl>
+            <Point id="1714">
                 <coordinates>153.22,-30,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70087">
-            <name/>
-            <styleUrl>#70088</styleUrl>
-            <Point id="70086">
+        <Placemark id="1721">
+            <name>Existing HF radar sites</name>
+            <styleUrl>#1722</styleUrl>
+            <Point id="1720">
                 <coordinates>153.01,-30.6,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70093">
-            <name/>
-            <styleUrl>#70094</styleUrl>
-            <Point id="70092">
+        <Placemark id="1727">
+            <name>Existing ANMN moorings</name>
+            <styleUrl>#1728</styleUrl>
+            <Point id="1726">
                 <coordinates>153.231,-30.311,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70099">
-            <name/>
-            <styleUrl>#70100</styleUrl>
-            <Point id="70098">
+        <Placemark id="1733">
+            <name>Existing ANMN moorings</name>
+            <styleUrl>#1734</styleUrl>
+            <Point id="1732">
                 <coordinates>153.3,-30.275,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70105">
-            <name/>
-            <styleUrl>#70106</styleUrl>
-            <Point id="70104">
+        <Placemark id="1739">
+            <name>Existing ANMN moorings</name>
+            <styleUrl>#1740</styleUrl>
+            <Point id="1738">
                 <coordinates>153.397,-30.268,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70111">
-            <name/>
-            <styleUrl>#70112</styleUrl>
-            <Point id="70110">
+        <Placemark id="1745">
+            <name>Existing ANMN moorings</name>
+            <styleUrl>#1746</styleUrl>
+            <Point id="1744">
                 <coordinates>151.224,-34.12,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70117">
-            <name/>
-            <styleUrl>#70118</styleUrl>
-            <Point id="70116">
+        <Placemark id="1751">
+            <name>Existing ANMN moorings</name>
+            <styleUrl>#1752</styleUrl>
+            <Point id="1750">
                 <coordinates>151.382,-33.943,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70123">
-            <name/>
-            <styleUrl>#70124</styleUrl>
-            <Point id="70122">
+        <Placemark id="1757">
+            <name>Existing ANMN moorings</name>
+            <styleUrl>#1758</styleUrl>
+            <Point id="1756">
                 <coordinates>151.459,-33.994,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70129">
-            <name/>
-            <styleUrl>#70130</styleUrl>
-            <Point id="70128">
+        <Placemark id="1763">
+            <name>Existing ANMN moorings</name>
+            <styleUrl>#1764</styleUrl>
+            <Point id="1762">
                 <coordinates>151.315,-33.898,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70135">
-            <name/>
-            <styleUrl>#70136</styleUrl>
-            <Point id="70134">
+        <Placemark id="1769">
+            <name>Existing ANMN moorings</name>
+            <styleUrl>#1770</styleUrl>
+            <Point id="1768">
                 <coordinates>150.189,-36.1897,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70141">
-            <name/>
-            <styleUrl>#70142</styleUrl>
-            <Point id="70140">
+        <Placemark id="1775">
+            <name>Existing ANMN moorings</name>
+            <styleUrl>#1776</styleUrl>
+            <Point id="1774">
                 <coordinates>150.309,-36.213,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70147">
-            <name/>
-            <styleUrl>#70148</styleUrl>
-            <Point id="70146">
+        <Placemark id="1781">
+            <name>Existing biogeochemical sampling sites</name>
+            <styleUrl>#1782</styleUrl>
+            <Point id="1780">
                 <coordinates>151.18,-34.082,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70153">
-            <name/>
-            <styleUrl>#70154</styleUrl>
-            <Point id="70152">
+        <Placemark id="1787">
+            <name>Existing biogeochemical sampling sites</name>
+            <styleUrl>#1788</styleUrl>
+            <Point id="1786">
                 <coordinates>151.189,-34.089,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70159">
-            <name/>
-            <styleUrl>#70160</styleUrl>
-            <Point id="70158">
+        <Placemark id="1793">
+            <name>Existing biogeochemical sampling sites</name>
+            <styleUrl>#1794</styleUrl>
+            <Point id="1792">
                 <coordinates>151.256,-34.148,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70165">
-            <name/>
-            <styleUrl>#70166</styleUrl>
-            <Point id="70164">
+        <Placemark id="1799">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1800</styleUrl>
+            <Point id="1798">
                 <coordinates>151.2883,-33.8957,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70171">
-            <name/>
-            <styleUrl>#70172</styleUrl>
-            <Point id="70170">
+        <Placemark id="1805">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1806</styleUrl>
+            <Point id="1804">
                 <coordinates>151.353,-33.9344,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70177">
-            <name/>
-            <styleUrl>#70178</styleUrl>
-            <Point id="70176">
+        <Placemark id="1811">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1812</styleUrl>
+            <Point id="1810">
                 <coordinates>151.3602,-33.9388,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70183">
-            <name/>
-            <styleUrl>#70184</styleUrl>
-            <Point id="70182">
+        <Placemark id="1817">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1818</styleUrl>
+            <Point id="1816">
                 <coordinates>151.3679,-33.9433,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70189">
-            <name/>
-            <styleUrl>#70190</styleUrl>
-            <Point id="70188">
+        <Placemark id="1823">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1824</styleUrl>
+            <Point id="1822">
                 <coordinates>151.3751,-33.9476,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70195">
-            <name/>
-            <styleUrl>#70196</styleUrl>
-            <Point id="70194">
+        <Placemark id="1829">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1830</styleUrl>
+            <Point id="1828">
                 <coordinates>151.3825,-33.9521,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70201">
-            <name/>
-            <styleUrl>#70202</styleUrl>
-            <Point id="70200">
+        <Placemark id="1835">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1836</styleUrl>
+            <Point id="1834">
                 <coordinates>151.3899,-33.9566,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70207">
-            <name/>
-            <styleUrl>#70208</styleUrl>
-            <Point id="70206">
+        <Placemark id="1841">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1842</styleUrl>
+            <Point id="1840">
                 <coordinates>151.2959,-33.8985,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70213">
-            <name/>
-            <styleUrl>#70214</styleUrl>
-            <Point id="70212">
+        <Placemark id="1847">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1848</styleUrl>
+            <Point id="1846">
                 <coordinates>151.303,-33.9027,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70219">
-            <name/>
-            <styleUrl>#70220</styleUrl>
-            <Point id="70218">
+        <Placemark id="1853">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1854</styleUrl>
+            <Point id="1852">
                 <coordinates>151.31,-33.9069,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70225">
-            <name/>
-            <styleUrl>#70226</styleUrl>
-            <Point id="70224">
+        <Placemark id="1859">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1860</styleUrl>
+            <Point id="1858">
                 <coordinates>151.3168,-33.9127,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70231">
-            <name/>
-            <styleUrl>#70232</styleUrl>
-            <Point id="70230">
+        <Placemark id="1865">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1866</styleUrl>
+            <Point id="1864">
                 <coordinates>151.3242,-33.917,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70237">
-            <name/>
-            <styleUrl>#70238</styleUrl>
-            <Point id="70236">
+        <Placemark id="1871">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1872</styleUrl>
+            <Point id="1870">
                 <coordinates>151.3314,-33.9214,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70243">
-            <name/>
-            <styleUrl>#70244</styleUrl>
-            <Point id="70242">
+        <Placemark id="1877">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1878</styleUrl>
+            <Point id="1876">
                 <coordinates>151.3384,-33.9256,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70249">
-            <name/>
-            <styleUrl>#70250</styleUrl>
-            <Point id="70248">
+        <Placemark id="1883">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1884</styleUrl>
+            <Point id="1882">
                 <coordinates>151.3456,-33.93,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70255">
-            <name/>
-            <styleUrl>#70256</styleUrl>
-            <Point id="70254">
+        <Placemark id="1889">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1890</styleUrl>
+            <Point id="1888">
                 <coordinates>151.2951,-33.7986,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70261">
-            <name/>
-            <styleUrl>#70262</styleUrl>
-            <Point id="70260">
+        <Placemark id="1895">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1896</styleUrl>
+            <Point id="1894">
                 <coordinates>151.3056,-33.8007,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70267">
-            <name/>
-            <styleUrl>#70268</styleUrl>
-            <Point id="70266">
+        <Placemark id="1901">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1902</styleUrl>
+            <Point id="1900">
                 <coordinates>153.1746,-30.2112,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70273">
-            <name/>
-            <styleUrl>#70274</styleUrl>
-            <Point id="70272">
+        <Placemark id="1907">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1908</styleUrl>
+            <Point id="1906">
                 <coordinates>153.2492,-30.2073,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70279">
-            <name/>
-            <styleUrl>#70280</styleUrl>
-            <Point id="70278">
+        <Placemark id="1913">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1914</styleUrl>
+            <Point id="1912">
                 <coordinates>153.2585,-30.2063,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70285">
-            <name/>
-            <styleUrl>#70286</styleUrl>
-            <Point id="70284">
+        <Placemark id="1919">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1920</styleUrl>
+            <Point id="1918">
                 <coordinates>153.2752,-30.2053,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70291">
-            <name/>
-            <styleUrl>#70292</styleUrl>
-            <Point id="70290">
+        <Placemark id="1925">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1926</styleUrl>
+            <Point id="1924">
                 <coordinates>153.2834,-30.2044,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70297">
-            <name/>
-            <styleUrl>#70298</styleUrl>
-            <Point id="70296">
+        <Placemark id="1931">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1932</styleUrl>
+            <Point id="1930">
                 <coordinates>153.1812,-30.2136,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70303">
-            <name/>
-            <styleUrl>#70304</styleUrl>
-            <Point id="70302">
+        <Placemark id="1937">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1938</styleUrl>
+            <Point id="1936">
                 <coordinates>153.1899,-30.2128,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70309">
-            <name/>
-            <styleUrl>#70310</styleUrl>
-            <Point id="70308">
+        <Placemark id="1943">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1944</styleUrl>
+            <Point id="1942">
                 <coordinates>153.1985,-30.2121,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70315">
-            <name/>
-            <styleUrl>#70316</styleUrl>
-            <Point id="70314">
+        <Placemark id="1949">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1950</styleUrl>
+            <Point id="1948">
                 <coordinates>153.2068,-30.2116,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70321">
-            <name/>
-            <styleUrl>#70322</styleUrl>
-            <Point id="70320">
+        <Placemark id="1955">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1956</styleUrl>
+            <Point id="1954">
                 <coordinates>153.215,-30.2107,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70327">
-            <name/>
-            <styleUrl>#70328</styleUrl>
-            <Point id="70326">
+        <Placemark id="1961">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1962</styleUrl>
+            <Point id="1960">
                 <coordinates>153.2233,-30.2099,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70333">
-            <name/>
-            <styleUrl>#70334</styleUrl>
-            <Point id="70332">
+        <Placemark id="1967">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1968</styleUrl>
+            <Point id="1966">
                 <coordinates>153.232,-30.2092,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70339">
-            <name/>
-            <styleUrl>#70340</styleUrl>
-            <Point id="70338">
+        <Placemark id="1973">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1974</styleUrl>
+            <Point id="1972">
                 <coordinates>153.2406,-30.2082,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70345">
-            <name/>
-            <styleUrl>#70346</styleUrl>
-            <Point id="70344">
+        <Placemark id="1979">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1980</styleUrl>
+            <Point id="1978">
                 <coordinates>150.1558,-36.2637,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70351">
-            <name/>
-            <styleUrl>#70352</styleUrl>
-            <Point id="70350">
+        <Placemark id="1985">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1986</styleUrl>
+            <Point id="1984">
                 <coordinates>150.1648,-36.2628,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70357">
-            <name/>
-            <styleUrl>#70358</styleUrl>
-            <Point id="70356">
+        <Placemark id="1991">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1992</styleUrl>
+            <Point id="1990">
                 <coordinates>150.1738,-36.2617,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70363">
-            <name/>
-            <styleUrl>#70364</styleUrl>
-            <Point id="70362">
+        <Placemark id="1997">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#1998</styleUrl>
+            <Point id="1996">
                 <coordinates>150.1827,-36.2607,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70369">
-            <name/>
-            <styleUrl>#70370</styleUrl>
-            <Point id="70368">
+        <Placemark id="2003">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#2004</styleUrl>
+            <Point id="2002">
                 <coordinates>150.1917,-36.2598,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70375">
-            <name/>
-            <styleUrl>#70376</styleUrl>
-            <Point id="70374">
+        <Placemark id="2009">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#2010</styleUrl>
+            <Point id="2008">
                 <coordinates>150.2006,-36.2587,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70381">
-            <name/>
-            <styleUrl>#70382</styleUrl>
-            <Point id="70380">
+        <Placemark id="2015">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#2016</styleUrl>
+            <Point id="2014">
                 <coordinates>150.2095,-36.2578,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70387">
-            <name/>
-            <styleUrl>#70388</styleUrl>
-            <Point id="70386">
+        <Placemark id="2021">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#2022</styleUrl>
+            <Point id="2020">
                 <coordinates>150.2178,-36.2568,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70393">
-            <name/>
-            <styleUrl>#70394</styleUrl>
-            <Point id="70392">
+        <Placemark id="2027">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#2028</styleUrl>
+            <Point id="2026">
                 <coordinates>150.2343,-36.2553,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70399">
-            <name/>
-            <styleUrl>#70400</styleUrl>
-            <Point id="70398">
+        <Placemark id="2033">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#2034</styleUrl>
+            <Point id="2032">
                 <coordinates>151.2884,-33.8373,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70405">
-            <name/>
-            <styleUrl>#70406</styleUrl>
-            <Point id="70404">
+        <Placemark id="2039">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#2040</styleUrl>
+            <Point id="2038">
                 <coordinates>151.2914,-33.8338,0.0</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="70411">
-            <name/>
-            <styleUrl>#70412</styleUrl>
-            <Point id="70410">
+        <Placemark id="2045">
+            <name>Existing ATF moorings</name>
+            <styleUrl>#2046</styleUrl>
+            <Point id="2044">
                 <coordinates>151.2943,-33.8307,0.0</coordinates>
             </Point>
         </Placemark>
